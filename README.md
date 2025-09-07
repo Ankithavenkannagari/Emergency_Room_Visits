@@ -14,6 +14,7 @@ Analyze hospital emergency room (ER) visits data to understand patient inflow pa
 **Source:** [Real World Fake Data – Hospital ER](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Hospital+ER.csv)
 
 **Size:** \~15,000 records
+
 **Features:**
 
 * **Categorical:** Department, Gender, Complaint\_Type, Triage\_Level
